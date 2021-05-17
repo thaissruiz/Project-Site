@@ -1,0 +1,101 @@
+
+.title{
+   
+    margin: 0 auto;
+}
+.title h1{
+    text-align: center;
+    color: white;
+    font-family: 'Codystar','cursive';
+    font-style: 100px;
+    padding: 3px;
+    margin-bottom: 60px;
+
+}
+.title h1:hover{
+    color: goldenrod;
+}
+.col-4{
+
+  
+    margin-top: 30px;
+
+}
+
+.model-section h2{
+    text-align: center;
+    margin-top: -80px;
+    color: goldenrod;
+    
+    font-family: 'Italiana', serif;
+    font-size: 40px;
+}
+.model-section h2:hover{
+    color: white;
+    text-shadow: goldenrod .1em 0.1em 0.1em;
+}
+
+#model-grid{
+    
+    border: 1px solid gray
+   
+   
+}
+
+img#model-grid{
+   
+   
+    width: 300px;
+	margin-top:30%;
+    margin-left: 5%;
+    margin-bottom: 30%;
+    background-image: url(./img/2-Home-Model\ 2\ .jpeg);
+    background-repeat: no-repeat;
+
+
+   
+}
+img#model-grid :hover{
+    background-image: url(./img/1-Home-Model\ 2.jpeg);
+
+}
+
+
+
+
+/*MODEL PROFILES*/
+.profile{
+   
+    width: 500px;
+    margin-left: 100px;
+    height: 500px;
+    margin-top: 70px;
+  
+}
+
+.profile h1{
+    
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+.profile h1:hover{
+    color: white;
+}
+.profile p{
+    
+    text-align: center;
+    font-size: 25px;
+}
+
+.profile p:hover{
+    color: white;
+}
+
+.model-profile{
+    margin-left: 20px;
+    width: 500px;
+    margin-left:-120px;
+
+}

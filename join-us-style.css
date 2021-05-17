@@ -1,0 +1,41 @@
+.message{
+    text-align: center;
+    color: gray;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+ 
+}
+
+.message:hover{
+    color: white;
+}
+.registration-data h2:hover{
+    color: white;
+
+}
+label:hover{
+    color: white;
+}
+.measures h2:hover{
+    color: white;
+}
+
+.input-file h2:hover{
+    color: white;
+}
+
+#submit{
+    background-color: rgb(230, 201, 130);
+    color: rgb(48, 48, 104);
+    border: none;
+}
+
+
+#submit:hover{
+
+    background-color: darkgoldenrod;
+    color: white;
+
+
+}

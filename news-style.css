@@ -1,0 +1,32 @@
+.video{
+
+    padding: 5px;
+   
+}
+#video{
+    width:80%;
+    margin-left: 40px;
+}
+
+.news h2{
+    color: white;
+    text-align: center;
+    font-size: 23px;
+    margin-top: 10px;
+}
+.news h2:hover{
+    color: goldenrod;
+}
+.news a{
+    text-decoration: none;
+}
+#news-1{
+    width: 300px;
+    margin-left: 35px;
+    margin-bottom: 15px;
+    
+}
+
+footer{
+    margin-top: 200px;
+}

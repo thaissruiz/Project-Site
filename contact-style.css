@@ -1,0 +1,21 @@
+.maps{
+   
+    padding: 10px;
+}
+.information{
+    margin-top: 50px;
+}
+.information h2:hover{
+    color: white;
+}
+.textarea{
+    width: 200px;
+}
+#textarea{
+    
+    height: 100px;
+
+}
+#submit{
+    margin-top: 30px;
+}
