@@ -5,7 +5,7 @@
 .information{
     margin-top: 50px;
 }
-.information h2:hover{
+.information h2{
     color: white;
 }
 .textarea{

@@ -5,18 +5,16 @@
 }
 .message-agency h1{
     text-align: center;
+    color: white
 }
-.message-agency h1:hover{
-    color: white;
-}
+
 .message-agency p{
     text-align: center;
     font-size: 25px;
-}
-
-.message-agency p:hover{
     color: white;
 }
+
+
 #img-agency{
     width: 500px;
     height: 600px;

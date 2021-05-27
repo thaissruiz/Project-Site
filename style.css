@@ -10,17 +10,30 @@ body{
 /*MENU NAVEGACAO */
 
 .nav-link{
+    background-color: black;
     color: white;
     font-family: 'Codystar','cursive';
 }
 
 .dropdown-menu{
     background-color: black;
+    color: white;
 }
-.dropdown-item{
+.dropdown-item{ 
     font-family: 'Codystar','cursive';
+    background-color: black;
+    color: white;
 
 }
+
+.dropdown-item:hover{ 
+    font-family: 'Codystar','cursive';
+    background-color: rgb(46, 44, 44);
+    color: white;
+
+}
+
+
 
 .navbar{
     margin-top:10px;

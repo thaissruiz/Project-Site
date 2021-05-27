@@ -1,27 +1,25 @@
 .message{
     text-align: center;
-    color: gray;
+    color: white;
     margin-top: 50px;
     margin-bottom: 50px;
     
  
 }
 
-.message:hover{
-    color: white;
-}
-.registration-data h2:hover{
-    color: white;
+
+.registration-data h2{
+    color:white;
 
 }
-label:hover{
+label{
     color: white;
 }
-.measures h2:hover{
+.measures h2{
     color: white;
 }
 
-.input-file h2:hover{
+.input-file h2{
     color: white;
 }
 
